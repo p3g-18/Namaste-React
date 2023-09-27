@@ -1,0 +1,6 @@
+/** * EPISODE 1 --> react createElement is an OBJECT -->R eactElement(object) =>
+HTML Collection(Browser understands) --> if my structure got siblings then in
+react you can create using array --> if i have written something in my html file
+and if i have written DOM in my react then the browser will replace the content
+in html file with react file --> order of files matter and also in which root we
+are rendering our react **/
